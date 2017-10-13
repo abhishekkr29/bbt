@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">bbt</string>
+    <string name="app_name">KAWACH</string>
+    <string name="heading">KAWACH</string>
+    <string name="settings">Settings</string>
 </resources>
